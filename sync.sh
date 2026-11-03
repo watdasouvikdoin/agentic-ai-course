@@ -20,3 +20,4 @@ echo "🚀 Pushing to GitHub..."
 git push origin main
 
 echo "🟢 All done! Green dot secured."
+
